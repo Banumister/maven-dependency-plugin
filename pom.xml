@@ -92,7 +92,7 @@ under the License.
     <resolverVersion>1.4.1</resolverVersion>
     <slf4jVersion>1.7.36</slf4jVersion>
     <jettyVersion>9.4.56.v20240826</jettyVersion>
-    <mockito.version>4.11.0</mockito.version>
+    <mockito.version>5.14.2</mockito.version>
     <plexus-archiver.version>4.10.0</plexus-archiver.version>
     <pluginTestingVersion>3.3.0</pluginTestingVersion>
     <project.build.outputTimestamp>2024-10-18T18:16:14Z</project.build.outputTimestamp>
